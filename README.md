@@ -1,4 +1,5 @@
-<h1>Hi there , I'm Rayen Korbi<br/><a href="https://www.linkedin.com/in/rayen-korbi-4ab072240/">Software engineering student</a>,  <a href="https://github.com/rayenkorbi">Cybersecurity Junior</a>,  <a href="https://youtube.com/playlist?list=PLsTXgTycZUcv7dAIGrgra-IS4ZHa5HRKW&si=9lt00FsIXQFxXKl-">3D modeler</a></h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=4915&pause=2000&color=58A6FF&random=false&width=435&lines=%3Ch1%3E+Welcome!+%3C%2Fh1%3E)](https://git.io/typing-svg)
+<h1>I'm Rayen Korbi<br/><a href="https://www.linkedin.com/in/rayen-korbi-4ab072240/">Software engineering student</a>,  <a href="https://github.com/rayenkorbi">Cybersecurity Junior</a>,  <a href="https://youtube.com/playlist?list=PLsTXgTycZUcv7dAIGrgra-IS4ZHa5HRKW&si=9lt00FsIXQFxXKl-">3D modeler</a></h1>
 
 I am Software engineering student Living in tunisia 🇹🇳
 

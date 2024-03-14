@@ -1,7 +1,25 @@
-### Hi there 👋
+<h1>Hi there , I'm Rayen Korbi<br/><a href="https://www.linkedin.com/in/rayen-korbi-4ab072240/">Software engineering student</a>,  <a href="https://github.com/rayenkorbi">Cybersecurity Junior</a>,  <a href="https://youtube.com/playlist?list=PLsTXgTycZUcv7dAIGrgra-IS4ZHa5HRKW&si=9lt00FsIXQFxXKl-">3D modeler</a></h1>
+
+I am Software engineering student Living in tunisia 🇹🇳
+
+I strongly believe in knowledge sharing through interaction and communication amongst co-workers.
+
+
+
+<h2> 📲 Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[twitter]: https://twitter.com/k0_ryn
+[youtube]: https://www.youtube.com/channel/UC5UO98ECiJVQmdvqSmNLlWg
+[instagram]: https://www.instagram.com/rayen.korbi_/
+[linkedin]: https://www.linkedin.com/in/rayen-korbi-4ab072240/
 
 <!--
-**rayenkorbi/rayenkorbi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 

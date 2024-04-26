@@ -1,35 +1,22 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=4915&pause=2000&color=58A6FF&random=false&width=435&lines=%3Ch1%3E+Welcome!+%3C%2Fh1%3E)](https://git.io/typing-svg)
-<h1>I'm Rayen Korbi<br/><a href="https://www.linkedin.com/in/rayen-korbi-4ab072240/">Software engineering student</a>,  <a href="https://github.com/rayenkorbi">Cybersecurity Junior</a>,  <a href="https://youtube.com/playlist?list=PLsTXgTycZUcv7dAIGrgra-IS4ZHa5HRKW&si=9lt00FsIXQFxXKl-">3D modeler</a></h1>
 
-I am Software engineering student Living in tunisia 🇹🇳
+<h1 align="center">Hi 👋, I'm Rayen Korbi</h1>
+<h3 align="center">I am Software engineering student from tunisia</h3>
 
-I strongly believe in knowledge sharing through interaction and communication amongst co-workers.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rayenkorbi&label=Profile%20views&color=7f0eb4&style=flat" alt="rayenkorbi" /> </p>
 
+- 🌱 I’m currently learning **Frameworks**
 
+- 📫 How to reach me **korbirayan@gmail.com**
 
-<h2> 📲 Connect with me:</h2>
+<h3 align="left">📲 Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/k0_ryn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="k0_ryn" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rayen-korbi-4ab072240" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rayen-korbi-4ab072240" height="30" width="40" /></a>
+<a href="https://fb.com/rayenzzzzzzzz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rayenzzzzzzzz" height="30" width="40" /></a>
+<a href="https://instagram.com/rayen.korbi_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rayen.korbi_" height="30" width="40" /></a>
+</p>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> </p>
 
-[twitter]: https://twitter.com/k0_ryn
-[youtube]: https://www.youtube.com/channel/UC5UO98ECiJVQmdvqSmNLlWg
-[instagram]: https://www.instagram.com/rayen.korbi_/
-[linkedin]: https://www.linkedin.com/in/rayen-korbi-4ab072240/
-
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rayenkorbi&theme=dark" alt="rayenkorbi" /></p>

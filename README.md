@@ -21,4 +21,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rayenkorbi&theme=dark" alt="rayenkorbi" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rayenkorbi&label=Profile%20views&color=7f0eb4&style=flat" alt="rayenkorbi" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=rayenkorbi&label=Profile%20views&color=7f0eb4&style=flat" alt="rayenkorbi" /> </p>

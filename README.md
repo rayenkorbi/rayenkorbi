@@ -4,9 +4,9 @@
 
 
 
-- 🌱 I’m currently learning **Frameworks**
+- 🌱 I’m currently learning **Frameworks , Spline**
 
-- 📫 How to reach me **korbirayan@gmail.com**
+- 📫 How to reach me **contact.rayenkorbi@gmail.com**
 
 <h3 align="left">📲 Connect with me:</h3>
 <p align="left">
